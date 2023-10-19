@@ -1,8 +1,5 @@
 
-## Modulo-21
-
-Teste de Unidade usando o Jest. Nos testes foram usados arquivos do exercicio do módulo-20.
-
+## Modulo-20
 
 Calcule o MDC (máximo divisor comum) entre dois números.
 
@@ -23,16 +20,6 @@ Listando todos os números inteiros abaixo de 10 que são múltiplos de 3 ou 5, 
 git clone https://github.com/KauanButura99/Ebac-Modulo-20.git
 
 npm install
-```
-
-## Library
-````bash
-npm install jest
-
-````
-````bash
-"@babel/core": "^7.20.0"
-
 ````
 
 
