@@ -1,7 +1,7 @@
 
 ## Modulo-21
 
-Teste de Unidade usando o Jest. Nos testes foram usados arquivos do exercicio do módulo-20.
+Teste de Unidade usando o Jest. Nos testes foram usados arquivos do exercício do módulo-20.
 
 
 Calcule o MDC (máximo divisor comum) entre dois números.
