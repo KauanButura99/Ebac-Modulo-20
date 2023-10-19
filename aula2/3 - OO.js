@@ -21,3 +21,6 @@ const carro = {
 }
 
 console.log(`${carro.idade()} anos`)
+
+const result = (`${carro.idade()} anos`)
+module.exports = result

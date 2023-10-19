@@ -3,4 +3,7 @@ function fibonacci(num) {
   return fibonacci(num - 1) + fibonacci(num - 2);
 }
 
-console.log(fibonacci(4))
+console.log(fibonacci(5))
+
+const result = fibonacci(5)
+module.exports = result
