@@ -12,3 +12,5 @@ function somaMulti() {
 
 const result = somaMulti()
 console.log(`O resultado da soma dos múltiplos de 5 ou 7 abaixo de 1000 é ${result}`)
+
+module.exports = result

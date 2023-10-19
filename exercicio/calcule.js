@@ -7,3 +7,6 @@ function mdc(a, b) {
   }
 }
 console.log(mdc(70, 67))
+
+const resultMdc = mdc(70, 67)
+module.exports = resultMdc
